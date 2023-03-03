@@ -1,0 +1,15 @@
+body {
+    font-family: monospace;
+    color: black;
+    background-color: #FA940A;
+    background-image: url('images/bgimage.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
